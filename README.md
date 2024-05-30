@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishab sha
-- 👀 I’m interested in CS
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning BCS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
